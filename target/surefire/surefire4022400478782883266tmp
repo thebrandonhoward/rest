@@ -1,0 +1,26 @@
+#surefire
+#Tue Nov 01 15:26:12 CDT 2016
+testClassesDirectory=C\:\\workspaceneon\\rest\\target\\test-classes
+classPathUrl.4=C\:\\Users\\ab53899\\.m2\\repository\\org\\hamcrest\\hamcrest-core\\1.3\\hamcrest-core-1.3.jar
+classPathUrl.3=C\:\\Users\\ab53899\\.m2\\repository\\junit\\junit\\4.12\\junit-4.12.jar
+classPathUrl.2=C\:\\Users\\ab53899\\.m2\\repository\\javax\\javaee-web-api\\7.0\\javaee-web-api-7.0.jar
+useManifestOnlyJar=true
+classPathUrl.1=C\:\\workspaceneon\\rest\\target\\classes
+reportsDirectory=C\:\\workspaceneon\\rest\\target\\surefire-reports
+classPathUrl.0=C\:\\workspaceneon\\rest\\target\\test-classes
+providerConfiguration=org.apache.maven.surefire.junit4.JUnit4Provider
+testSuiteDefinitionTestSourceDirectory=C\:\\workspaceneon\\rest\\src\\test\\java
+surefireClassPathUrl.1=C\:\\Users\\ab53899\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-api\\2.12.4\\surefire-api-2.12.4.jar
+surefireClassPathUrl.0=C\:\\Users\\ab53899\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-junit4\\2.12.4\\surefire-junit4-2.12.4.jar
+runOrder=filesystem
+useSystemClassLoader=true
+excludes0=**/*$*
+isTrimStackTrace=true
+tc.0=com.service.rest.collaborators.entities.test.CdiTest
+enableAssertions=true
+includes2=**/*TestCase.java
+failIfNoTests=false
+includes1=**/*Test.java
+runStatisticsFile=C\:\\workspaceneon\\rest\\.surefire-6227CF8F49D1E4DB5463FDDE07E9B6B61145FEF4
+includes0=**/Test*.java
+childDelegation=false

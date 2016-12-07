@@ -1,0 +1,2 @@
+com\service\rest\implementations\test\Injection.class
+com\service\rest\collaborators\entities\test\CdiTest.class
